@@ -5,7 +5,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 I'm actively honing my skills as a web programmer.
-- 🌱 Currently, I'm deep into learning JavaScript to enhance my coding prowess.
+- 🌱 I am currently learning the Angular Framework to improve my coding skills.
 - 💬 Feel free to ask me about anything related to web development or programming!
 - 📫 You can reach me at: <a href='mailto:jackson.tiburtinopb@gmail.com' >jackson.tiburtinopb@gmail.com</a>.
 - 😄 Pronouns: You can use he/him or she/her.
