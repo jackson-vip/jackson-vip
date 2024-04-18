@@ -1,5 +1,5 @@
-<img align='right' src="https://visitor-badge.laobi.icu/badge?page_id=jackson-vip.issue.1" />
-https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge.issue.1
+<img align='right' src="https://visitor-badge.laobi.icu/badge?page_id=jackson-vip.jackson-vip" />
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=28&pause=1000&center=true&vCenter=true&width=480&lines=Hi+there+!+%F0%9F%91%8B;My+name+is+Jackson+Ferreira" alt="Typing SVG" /></a>
 
 ### 👨‍💻 About Me
