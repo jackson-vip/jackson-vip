@@ -29,7 +29,7 @@
 <div style="display:flex; align-items: center; flex-wrap: wrap">
   <a href="https://github.com/jackson-vip">
     <img style="margin-right:.8em; border: 0px" src='https://github-readme-stats.vercel.app/api?username=jackson-vip&show_icons=true&theme=dracula' alt="GitHub Stats"`>
-    <img style="border: 0px; height: 200px" src='https://github-readme-stats.vercel.app/api/top-langs/?username=jackson-vip&layout=compact&theme=dracula' alt="Top Languages">
+    <img style="border: 0px; height: 190px" src='https://github-readme-stats.vercel.app/api/top-langs/?username=jackson-vip&layout=compact&theme=dracula' alt="Top Languages">
   </a>
 </div>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
