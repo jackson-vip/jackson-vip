@@ -32,6 +32,11 @@
     <img style="height=180em;" src='https://github-readme-stats.vercel.app/api/top-langs/?username=jackson-vip&layout=compact&theme=dracula' alt="Top Languages">
   </a>
 </div>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jackson-vip&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jackson-vip&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jackson-vip&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;"> 
+</div>
 
 ### 📱 Connect with Me
 
