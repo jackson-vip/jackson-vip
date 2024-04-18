@@ -28,7 +28,7 @@
     
 <div style="display:flex; align-items: center; flex-wrap: wrap">
   <a href="https://github.com/jackson-vip">
-    <img style="margin-right:.8em; height=180px;" src='https://github-readme-stats.vercel.app/api?username=jackson-vip&show_icons=true&theme=dracula' alt="GitHub Stats"`>
+    <img style="margin-right:.8em; height=180px; border=none" src='https://github-readme-stats.vercel.app/api?username=jackson-vip&show_icons=true&theme=dracula' alt="GitHub Stats"`>
     <img style="height=180em;" src='https://github-readme-stats.vercel.app/api/top-langs/?username=jackson-vip&layout=compact&theme=dracula' alt="Top Languages">
   </a>
 </div>
