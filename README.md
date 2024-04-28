@@ -23,7 +23,7 @@
 
 ### 🧑🏻‍💻 Languages | ⚒️ Tools | 🚀 Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,angular,git,github,bootstrap,linux,bash,mysql,md,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,scss,angular,git,github,bootstrap,linux,bash,mysql,md,vscode)](https://skillicons.dev)
 
 ### 📊 GitHub Stats
     
