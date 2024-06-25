@@ -3,7 +3,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=28&pause=1000&center=true&vCenter=true&width=480&lines=Hi+there+!+%F0%9F%91%8B;My+name+is+Jackson+Ferreira" alt="Typing SVG" /></a>
 
-### 👨‍💻 About Me
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" alt="Man Technologist" width="25" height="25" /> About Me
 
 - 🔭 I'm actively honing my skills as a web programmer.
 - 🌱 I am currently learning the Angular Framework to improve my coding skills.
@@ -12,7 +12,7 @@
 - 😄 Pronouns: You can use he/him or she/her.
 - ⚡ Fun fact: I'm a tech enthusiast who loves exploring the ever-evolving world of web technologies!
 
-### 🚀 What I'm Focused On
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" alt="Rocket" width="25" height="25" /> What I'm Focused On
 
 - Front-end development
 - Back-end development
