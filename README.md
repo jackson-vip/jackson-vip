@@ -3,7 +3,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=28&pause=1000&center=true&vCenter=true&width=480&lines=Hi+there+!+%F0%9F%91%8B;My+name+is+Jackson+Ferreira" alt="Typing SVG" /></a>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" alt="Man Technologist" width="25" height="25" /> About Me
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" height="25" /> About Me
 
 - 🔭 I'm actively honing my skills as a web programmer.
 - 🌱 I am currently learning the Angular Framework to improve my coding skills.
@@ -12,7 +12,7 @@
 - 😄 Pronouns: You can use he/him or she/her.
 - ⚡ Fun fact: I'm a tech enthusiast who loves exploring the ever-evolving world of web technologies!
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" alt="Rocket" width="25" height="25" /> What I'm Focused On
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="25" height="25"/> What I'm Focused On
 
 - Front-end development
 - Back-end development
@@ -21,11 +21,11 @@
 
 > "Ninguém é tão sábio que não tenha algo para aprender e nem tão tolo que não tenha algo para ensinar." - Blaise Pascal
 
-### 🧑🏻‍💻 Languages | ⚒️ Tools | 🚀 Frameworks
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="25" height="25"/>  Languages | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="25" height="25"/> Tools | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="25" height="25"/> Frameworks
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,scss,angular,git,github,bootstrap,linux,bash,mysql,md,vscode)](https://skillicons.dev)
 
-### 📊 GitHub Stats
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" />  GitHub Stats
     
 <div style="display:flex; align-items: center; flex-wrap: wrap">
   <a href="https://github.com/jackson-vip">
