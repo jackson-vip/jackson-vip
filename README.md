@@ -9,7 +9,7 @@
 - 🌱 I am currently learning the Angular Framework to improve my coding skills.
 - 💬 Feel free to ask me about anything related to web development or programming!
 - 📫 You can reach me at: <a href='mailto:jackson.tiburtinopb@gmail.com' >jackson.tiburtinopb@gmail.com</a>.
-- 😄 Pronouns: You can use he/him or she/her.
+- 😄 Pronouns: You can use he/him.
 - ⚡ Fun fact: I'm a tech enthusiast who loves exploring the ever-evolving world of web technologies!
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="25" height="25"/> What I'm Focused On
