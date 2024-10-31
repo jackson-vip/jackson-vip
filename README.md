@@ -12,7 +12,7 @@
 - 😄 Pronouns: You can use he/him.
 - ⚡ Fun fact: I'm a tech enthusiast who loves exploring the ever-evolving world of web technologies!
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="25" height="25"/> What I'm Focused On
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="25" height="25"/> Current Focus
 
 - Front-end development
 - Back-end development
@@ -39,6 +39,15 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jackson-vip&show_icons=true&theme=dracula" style="border: 1px solid white; border-radius: 5px; margin: 10px;"> 
 </div>
 
+### 📈 Projects
+- [To-Do-List-Advanced](project-link): project is dedicated to creating a highly functional to-do list application with advanced features such as task prioritization, categorization, and reminders. It leverages JavaScript for dynamic interactions, CSS for styling, and HTML for structure.
+
+### ⚙️ Installation
+1. Clone the repo
+   ```sh
+   git clone git@github.com:jackson-vip/To-Do-List-Advanced.git
+   ```
+
 ### 📱 Connect with Me
 
 <div>
@@ -47,6 +56,9 @@
   </a>
   <a href='https://www.linkedin.com/in/jackson-ferreira1/' target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href='https://codepen.io/Jackson-Ferreira-the-sans' target="_blank">
+    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen">
   </a>
   <a href='https://github.com/jackson-vip' target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
